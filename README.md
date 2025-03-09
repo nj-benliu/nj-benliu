@@ -1,4 +1,5 @@
-## Hi there 👋
+## Benjamin Liu
+Student at Oxford University (Maths and Computer Science)
 
 <!--
 **nj-benliu/nj-benliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
